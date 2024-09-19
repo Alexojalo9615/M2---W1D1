@@ -1,0 +1,5 @@
+1. Un algoritmo è un insieme finito di istruzioni per la risoluzione di un problema, per esempio una ricetta è un algoritmo in questo caso.
+
+2. Le variabili sono come dei contenitori che contengono valori, un po' come in cucina tazze e padelle per contenere salse e altro cibo.
+
+3.No, non sono la stessa cosa, "undefined" appare quando il valore è indefinito, non ben specificato, mentre "null" appare quando il valore è nullo o uguale a zero.
